@@ -3,7 +3,9 @@
 <a href="https://github.com/NareshMRN/Sangeetha-releases/releases/latest">
   <img src="https://tachibanagenerallaboratories.github.io/images/badges/GitHub/get-it-on-github.png" width="160" alt="Get it on GitHub">
 </a>
-[![Get it on Website](https://img.shields.io/badge/Get_it_on-Website-0052FF?style=for-the-badge&logo=vercel)](https://thesangeetha.vercel.app/download)
+<a href="https://thesangeetha.vercel.app/download">
+  <img src="https://img.shields.io/badge/Get_it_on-Website-0052FF?style=for-the-badge&logo=vercel" alt="Get it on Website">
+</a>
 
 ## 🚀 Release Notes — Sangeetha (v1.0.2 & Latest Updates)
 
