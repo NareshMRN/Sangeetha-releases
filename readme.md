@@ -1,6 +1,6 @@
 # Sangeetha v1.0.2
 
-[![Get it on GitHub](https://img.shields.io/badge/Get_it_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NareshMRN/Sangeetha-releases/releases)
+[![Get it on GitHub](https://img.shields.io/badge/Get_it_on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NareshMRN/Sangeetha-releases/releases/latest)
 [![Get it on Website](https://img.shields.io/badge/Get_it_on-Website-0052FF?style=for-the-badge&logo=vercel)](https://thesangeetha.vercel.app/download)
 
 ## 🚀 Release Notes — Sangeetha (v1.0.2 & Latest Updates)
@@ -8,7 +8,7 @@
 ### 📌 Summary
 This update introduces key bug fixes across the Android App, connects the Web Frontend Contact Form to the reports backend system, improves authentication flows, and optimizes APK asset distribution via GitHub Releases.
 
-### 📱 Android App Improvements (android/ios)
+### 📱 Android App Improvements (android)
 * **Navigation & Shell Enhancements:** Improved app shell (`app_shell.dart`) navigation and bottom tab routing for a smoother user experience.
 * **Authentication & Logout Flow:** Refactored `login_screen.dart`, `forgot_password_screen.dart`, and `account_settings_screen.dart` to handle login state, password reset OTPs, and clean logout redirects without getting stuck on wrong screens.
 * **UI & Theme Fixes:** Updated Android XML style configurations for improved dark mode compatibility and Android SDK support.
